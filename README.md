@@ -1,4 +1,4 @@
-# markdown-core-node-demo
+# markdown-core-node
 
 ## Setup
 
@@ -8,6 +8,6 @@
 
     yarn build
 
-## Run
+## Use
 
-    node index.bundle.js
+    require('path-to/index.bundle.js')
